@@ -1,0 +1,29 @@
+.container-right{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    float:right;
+    width: 20rem;
+}
+.advert img{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+}
+.advertbox1{
+    display: flex;
+}
+.advertbox1 p{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    font-size: small;
+}
+.advertbox2{
+    display: flex;
+}
+.advertbox2 p{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    font-size: small;
+    color: black;
+}

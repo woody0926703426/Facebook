@@ -1,0 +1,19 @@
+.container-left{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-bottom: 30rem;
+    padding-top: 1rem;
+    padding-left: 2rem;
+    width: 20rem;
+    
+}
+.Item-left{
+    display: flex;
+    width: 18rem;
+}
+.Item-left img{
+    width: 30px;
+    margin-bottom: 1.5rem;
+    margin-right: 1.2rem;
+}

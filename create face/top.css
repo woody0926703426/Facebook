@@ -1,0 +1,23 @@
+.container-top{
+    background-color: #fff;
+    padding: 0.8rem;
+    margin-bottom: 1.3rem;
+}
+#Item{
+    display: flex;
+    flex-direction: row;
+}
+.Item img{ 
+    margin-right: 3rem;
+    width: 25px;
+}
+.top1{
+    margin-right: 30rem;
+}
+.top2{
+    margin-right: 22rem;
+}
+.top3 img{
+    width: 25px;
+    margin-left: 1rem;
+}

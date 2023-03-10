@@ -1,0 +1,109 @@
+.container-between{
+
+
+    background-color: #fff;
+    padding: 1rem;
+    margin-left: 14rem;
+    width: 30rem;
+    height: 17rem;
+    border-radius: 10px;
+    margin-right: 13rem;
+}
+
+.Item-between{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+}
+.iconstory{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+.iconReels{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-left: 4rem;
+    margin-right: 5rem;
+}
+.Item-between2{
+    display: flex;
+    margin-top: 1rem;
+}
+.box1{
+    position: absolute;
+    border-radius: 25px;
+}
+.box2{
+    
+    border-radius: 10px;
+}
+.I{
+    margin-right: 0.5rem;
+}
+.I1{
+    margin-right: 0.5rem;
+    
+}
+.container-between2{
+    background-color: #fff;
+    width: 30rem;
+    height: 7rem;
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin-left: 14rem;
+}
+.Item-think{
+    display: flex;
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    margin-bottom: 0.5rem;
+}
+.input{
+    width: 85%;
+    height: 2.5rem;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(230, 230, 230);
+    margin-left: 1rem;
+}
+.Item-think2{
+    display: flex;
+    margin-top: 0.5rem;
+}
+.B{
+    display: flex;
+    margin: 0.5rem 1.5rem 0rem 1.5rem;
+
+}
+.tagP{
+    font-size: small;
+}
+.container-between3{
+    background-color: #fff;
+    width: 30rem;
+    height: 26rem;
+    border-radius: 10px;
+    margin-top: 1rem;
+    margin-left: 14rem;
+    display: flex;
+    flex-direction: column;
+}
+.itembox{
+    display: flex;
+    flex-direction: row;
+
+    margin: 0.5rem 0 0 1rem;
+}
+.Post{
+    display: flex;
+    margin: 2rem 0 0 2rem;
+}
+.comment{
+    display: flex;
+}
+#feelings{
+    display: flex;
+    margin: 3rem 2rem 1rem 3rem;
+}
